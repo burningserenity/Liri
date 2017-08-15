@@ -12,4 +12,4 @@ exports.spotifyKeys = {
     client_secret: '62f06508755d43c288d16db901bf91e5'
 };
 
-exports.omdbKey = 40e9cece;
+exports.omdbKey = '40e9cece';
